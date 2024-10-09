@@ -10,4 +10,4 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/simeonhawkins/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/simeonhawkins/azure-network-protocols)
 - <b>VPNs</b>
-  - [Virtual Networks: Setting Up and Using VPNs] 
+  - [Virtual Networks: Setting Up and Using VPNs](https://github.com/simeonhawkins/VPNSetup) 
