@@ -9,6 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/simeonhawkins/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/simeonhawkins/azure-network-protocols)
+  - [Network File Shares and Permissions](https://github.com//simeonhawkins/Network-File-Shares-and-Permissions)
+  - [Building Intuition for DNS](https://github.com/simeonhawkins/Building-Intuition-for-DNS)
 - <b>VPNs</b>
   - [Virtual Networks: Setting Up and Using VPNs](https://github.com/simeonhawkins/VPNSetup) 
 
