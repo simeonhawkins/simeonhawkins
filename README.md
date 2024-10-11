@@ -12,7 +12,17 @@
   - [Network File Shares and Permissions](https://github.com//simeonhawkins/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/simeonhawkins/Building-Intuition-for-DNS)
 - <b>VPNs</b>
-  - [Virtual Networks: Setting Up and Using VPNs](https://github.com/simeonhawkins/VPNSetup) 
+  - [Virtual Networks: Setting Up and Using VPNs](https://github.com/simeonhawkins/VPNSetup)
+ 
+- <h2>Red Team Projects</h2>
+
+- [Springboard Capstone Project](https://github.com/simeonhawkins/capstone-project)
+
+
+
+- <h2>Blue Team Projects</h2>
+
+
 
 
 <h2>Connect with me:</h2>
