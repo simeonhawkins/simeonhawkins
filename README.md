@@ -23,7 +23,7 @@
 - <h2>Blue Team Projects</h2>
 
 - [Simple Elastic SIEM Lab](https://github.com/simeonhawkins/Elastic-SIEM-Lab)
-
+- [SOC Automation Project Home Lab](https://github.com/simeonhawkins/SOC-Automation-Project)
 
 
 <h2>Connect with me:</h2>
