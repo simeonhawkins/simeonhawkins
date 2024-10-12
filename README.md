@@ -16,7 +16,7 @@
  
 - <h2>Red Team Projects</h2>
 
-- [Springboard Capstone Project](https://github.com/simeonhawkins/capstone-project)
+- [Pen Testing Capstone Project](https://github.com/simeonhawkins/capstone-project)
 
 
 
